@@ -5,4 +5,5 @@
 - ls(list of elements)
 - nano
 - mkdir
-##remote
+## remote
+git clone
