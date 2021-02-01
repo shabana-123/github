@@ -4,3 +4,4 @@
 - pwd(present working directory)
 - ls(list of elements)
 - nano
+- mkdir
